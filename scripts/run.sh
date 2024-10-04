@@ -1,0 +1,1 @@
+docker run --gpus all -e LOAD_FORMAT="bitsandbytes" -e ENFORCE_EAGER="true" -e DTYPE="float16" -e MAX_MODEL_LEN="4096" 891376923046.dkr.ecr.eu-west-2.amazonaws.com/llm-repo #--rp_serve_api
