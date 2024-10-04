@@ -1,6 +1,6 @@
 # export BUILDKIT_PROGRESS=plain
 export DOCKER_BUILDKIT=1
-export HF_TOKEN=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
+export HF_TOKEN=<HF_TOKEN>
 export MODEL_NAME="charisma-entertainment/llama3.1-story-structure"
 export QUANTIZATION=bitsandbytes
 export LOAD_FORMAT=bitsandbytes
